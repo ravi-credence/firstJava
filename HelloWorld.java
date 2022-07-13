@@ -4,6 +4,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World, How Are You ? My Dear Friend... Yo Fine ? ");
+    System.out.println("Hello, World, How Are You ? ");
   }
 }
